@@ -989,6 +989,35 @@
       "ver": "4.1"
     }
   },
+  "2013023": {
+    "cpu": {
+      "cores": 4,
+      "freq": 1.5,
+      "name": "Cortex-A7"
+    },
+    "date": "2013-07-31T15:00:00.000Z",
+    "display": {
+      "h": 1280,
+      "s": 4.7,
+      "w": 720
+    },
+    "maker": {
+      "code": "x",
+      "name": "Xiaomi"
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 4096
+    },
+    "name": {
+      "id": "Xiaomi Hongmi",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.2"
+    }
+  },
   "201F": {
     "carrier": {
       "code": "s",
@@ -2064,6 +2093,35 @@
       "ver": "4.3"
     }
   },
+  "ASUS_Z00AD": {
+    "cpu": {
+      "cores": 4,
+      "freq": 2.3,
+      "name": "Intel_Atom_Z3580"
+    },
+    "date": "2015-09-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "a",
+      "name": "Asus"
+    },
+    "memory": {
+      "ram": 4096,
+      "rom": 65536
+    },
+    "name": {
+      "id": "Asus Zenfone 2 Deluxe ZE551ML",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0"
+    }
+  },
   "AXON_mini": {
     "carrier": {
       "code": "_",
@@ -2559,6 +2617,64 @@
       "ver": "4.4"
     }
   },
+  "C122VL": {
+    "cpu": {
+      "cores": 4,
+      "freq": 2.3,
+      "name": "Krait 400"
+    },
+    "date": "2013-05-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "htc",
+      "name": "HTC"
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "name": {
+      "id": "HTC One M8",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    }
+  },
+  "C6833": {
+    "cpu": {
+      "cores": 4,
+      "freq": 2.2,
+      "name": "Krait 400"
+    },
+    "date": "2013-07-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 6.4,
+      "w": 1080
+    },
+    "maker": {
+      "code": "s",
+      "name": "Sony"
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Sony Xperia Z Ultra",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.2"
+    }
+  },
   "CAL21": {
     "carrier": {
       "code": "a",
@@ -3018,6 +3134,35 @@
     "os": {
       "type": "android",
       "ver": "4.2"
+    }
+  },
+  "E2105": {
+    "cpu": {
+      "cores": 4,
+      "freq": 1.3,
+      "name": "Cortex-A7"
+    },
+    "date": "2015-03-31T15:00:00.000Z",
+    "display": {
+      "h": 960,
+      "s": 5,
+      "w": 540
+    },
+    "maker": {
+      "code": "s",
+      "name": "Sony"
+    },
+    "memory": {
+      "ram": 1080,
+      "rom": 8192
+    },
+    "name": {
+      "id": "Sony Xperia E4",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
     }
   },
   "E30HT": {
@@ -3690,6 +3835,10 @@
       "s": 4.5,
       "w": 720
     },
+    "flags": {
+      "forceMaxPressure": 10000,
+      "forceTouchMode": "pressure"
+    },
     "maker": {
       "code": "f",
       "name": "Fujitsu"
@@ -3822,6 +3971,10 @@
       "s": 4.3,
       "w": 540
     },
+    "flags": {
+      "forceMaxPressure": 10000,
+      "forceTouchMode": "pressure"
+    },
     "maker": {
       "code": "f",
       "name": "Fujitsu"
@@ -3887,6 +4040,10 @@
       "h": 960,
       "s": 4.3,
       "w": 540
+    },
+    "flags": {
+      "forceMaxPressure": 10000,
+      "forceTouchMode": "pressure"
     },
     "maker": {
       "code": "f",
@@ -4019,6 +4176,10 @@
       "h": 800,
       "s": 4,
       "w": 480
+    },
+    "flags": {
+      "forceMaxPressure": 10000,
+      "forceTouchMode": "pressure"
     },
     "maker": {
       "code": "f",
@@ -4594,6 +4755,64 @@
       "ver": "4.0"
     }
   },
+  "GT-I8160P": {
+    "cpu": {
+      "cores": 2,
+      "freq": 0.8,
+      "name": "Cortex-A9"
+    },
+    "date": "2012-02-31T15:00:00.000Z",
+    "display": {
+      "h": 800,
+      "s": 3.8,
+      "w": 480
+    },
+    "maker": {
+      "code": "s",
+      "name": "Samsung"
+    },
+    "memory": {
+      "ram": 0.768,
+      "rom": 4096
+    },
+    "name": {
+      "id": "Samsung Galaxy Ace 2",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "2.3"
+    }
+  },
+  "GT-I8200N": {
+    "cpu": {
+      "cores": 2,
+      "freq": 1.2,
+      "name": "Cortex-A9"
+    },
+    "date": "2014-03-31T15:00:00.000Z",
+    "display": {
+      "h": 800,
+      "s": 4,
+      "w": 480
+    },
+    "maker": {
+      "code": "s",
+      "name": "Samsung"
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
+    "name": {
+      "id": "Samsung Galaxy S3 mini VE",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.2"
+    }
+  },
   "G_Watch_R": {
     "cpu": {
       "cores": 4,
@@ -4620,6 +4839,35 @@
     "os": {
       "type": "Android Wear",
       "ver": "5.0.1"
+    }
+  },
+  "H60-L02": {
+    "cpu": {
+      "cores": 8,
+      "freq": 1.7,
+      "name": "Cortex-A15 & Cortex-A7"
+    },
+    "date": "2014-06-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "h",
+      "name": "Huawei"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Huawei Honor 6",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
     }
   },
   "HM_1S": {
@@ -6194,6 +6442,64 @@
     "os": {
       "type": "android",
       "ver": "4.0"
+    }
+  },
+  "K007": {
+    "cpu": {
+      "cores": 4,
+      "freq": 1.83,
+      "name": "Intel Atom Z3560"
+    },
+    "date": "2014-09-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 7,
+      "w": 1200
+    },
+    "maker": {
+      "code": "a",
+      "name": "Asus"
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Asus Memo Pad 7 ME572C",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    }
+  },
+  "K00E": {
+    "cpu": {
+      "cores": 4,
+      "freq": 1.6,
+      "name": "Intel Atom Z2420 & Z3560"
+    },
+    "date": "2013-04-31T15:00:00.000Z",
+    "display": {
+      "h": 1280,
+      "s": 7,
+      "w": 800
+    },
+    "maker": {
+      "code": "a",
+      "name": "Asus"
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
+    "name": {
+      "id": "Asus Fonepad",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.1"
     }
   },
   "K013": {
@@ -8413,6 +8719,74 @@
       "ver": "6.0"
     }
   },
+  "Nexus_7_2012": {
+  "brand":"Google",
+    "price": 2000,
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "cpu": {
+      "cores": 4,
+      "freq": 1.2,
+      "name": "Qualcomm Snapdragon 400 MSM8926"
+    },
+    "date": "2012-06-13T15:00:00.000Z",
+    "display": {
+      "h": 1280,
+      "s": 7,
+      "w": 800
+    },
+    "maker": {
+      "code": "as",
+      "name": "ASUS"
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8
+    },
+    "name": {
+      "id": "Nexus 7 (2012)",
+      "long": "Nexus 7 (2012)"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.3"
+    }
+  },
+  "Nexus_7_2013": {
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "cpu": {
+      "cores": 4,
+      "freq": 1.51,
+      "name": "Krait 300"
+    },
+    "date": "2013-06-26T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 7.02,
+      "w": 1200
+    },
+    "maker": {
+      "code": "as",
+      "name": "ASUS"
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Nexus 7 (2013)",
+      "long": "Nexus 7 (2013)"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.3"
+    }
+  },
   "Nexus_9": {
     "cpu": {
       "cores": 2,
@@ -9743,6 +10117,9 @@
       "h": 800,
       "s": 4.5,
       "w": 480
+    },
+    "flags": {
+      "forceMinScreenScale": 1
     },
     "maker": {
       "code": "sc",
@@ -11749,6 +12126,122 @@
       "ver": "4.2"
     }
   },
+  "SM-A300FU": {
+    "cpu": {
+      "cores": 4,
+      "freq": 1.2,
+      "name": "Cortex-A53"
+    },
+    "date": "2014-12-31T15:00:00.000Z",
+    "display": {
+      "h": 960,
+      "s": 4.5,
+      "w": 540
+    },
+    "maker": {
+      "code": "s",
+      "name": "Samsung"
+    },
+    "memory": {
+      "ram": 1536,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Samsung Galaxy A3",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    }
+  },
+  "SM-G7105": {
+    "cpu": {
+      "cores": 4,
+      "freq": 1.2,
+      "name": "Cortex-A7"
+    },
+    "date": "2014-01-31T15:00:00.000Z",
+    "display": {
+      "h": 1280,
+      "s": 5.25,
+      "w": 720
+    },
+    "maker": {
+      "code": "s",
+      "name": "Samsung"
+    },
+    "memory": {
+      "ram": 1536,
+      "rom": 8192
+    },
+    "name": {
+      "id": "Samsung Galaxy Grand 2",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.3"
+    }
+  },
+  "SM-G900F": {
+    "cpu": {
+      "cores": 4,
+      "freq": 2.5,
+      "name": "Krait 400"
+    },
+    "date": "2014-04-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.1,
+      "w": 1080
+    },
+    "maker": {
+      "code": "s",
+      "name": "Samsung"
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Samsung Galaxy S5",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    }
+  },
+  "SM-N9005": {
+    "cpu": {
+      "cores": 8,
+      "freq": 2.3,
+      "name": "Krait 400 & Cortex-A7"
+    },
+    "date": "2013-09-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.7,
+      "w": 1080
+    },
+    "maker": {
+      "code": "s",
+      "name": "Samsung"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Samsung Galaxy Note 3",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.3"
+    }
+  },
   "SM-P905": {
     "cpu": {
       "cores": 4,
@@ -11775,6 +12268,64 @@
     "os": {
       "type": "android",
       "ver": "4.4.2"
+    }
+  },
+  "SM-T113": {
+    "cpu": {
+      "cores": 4,
+      "freq": 1.3,
+      "name": "Spreadtrum SC8830"
+    },
+    "date": "2014-03-31T15:00:00.000Z",
+    "display": {
+      "h": 1024,
+      "s": 7,
+      "w": 600
+    },
+    "maker": {
+      "code": "s",
+      "name": "Samsung"
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
+    "name": {
+      "id": "Samsung Galaxy Tab 3 Lite 7.0 VE",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    }
+  },
+  "SM-T550": {
+    "cpu": {
+      "cores": 4,
+      "freq": 1.2,
+      "name": "Cortex-A53"
+    },
+    "date": "2015-05-31T15:00:00.000Z",
+    "display": {
+      "h": 1024,
+      "s": 9.7,
+      "w": 768
+    },
+    "maker": {
+      "code": "s",
+      "name": "Samsung"
+    },
+    "memory": {
+      "ram": 1536,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Samsung Galaxy Tab A 9.7",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0"
     }
   },
   "SO-01B": {
@@ -13223,6 +13774,35 @@
       "ver": "5.1"
     }
   },
+  "V370": {
+    "cpu": {
+      "cores": 4,
+      "freq": 1.2,
+      "name": "Cortex-A7"
+    },
+    "date": "2013-05-31T15:00:00.000Z",
+    "display": {
+      "h": 960,
+      "s": 4.5,
+      "w": 540
+    },
+    "maker": {
+      "code": "a",
+      "name": "Acer"
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 4096
+    },
+    "name": {
+      "id": "Acer Liquid E2",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.2"
+    }
+  },
   "VAIO_Phone": {
     "carrier": {
       "code": "b",
@@ -13254,6 +13834,35 @@
     "os": {
       "type": "android",
       "ver": "5.0"
+    }
+  },
+  "Venue_7_3730": {
+    "cpu": {
+      "cores": 2,
+      "freq": 1.6,
+      "name": "Intel Atom Z2560"
+    },
+    "date": "2013-10-31T15:00:00.000Z",
+    "display": {
+      "h": 1280,
+      "s": 7,
+      "w": 800
+    },
+    "maker": {
+      "code": "d",
+      "name": "Dell"
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Dell Venue 7",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.2"
     }
   },
   "WX04K": {
@@ -13647,6 +14256,35 @@
       "ver": "4.3"
     }
   },
+  "XT1032": {
+    "cpu": {
+      "cores": 4,
+      "freq": 1.2,
+      "name": "Cortex-A7"
+    },
+    "date": "2013-11-31T15:00:00.000Z",
+    "display": {
+      "h": 1280,
+      "s": 7,
+      "w": 720
+    },
+    "maker": {
+      "code": "m",
+      "name": "Motorola"
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
+    "name": {
+      "id": "Motorola Moto G",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.3"
+    }
+  },
   "XT1053": {
     "cpu": {
       "cores": 2,
@@ -13902,6 +14540,35 @@
       "ver": "5.0"
     }
   },
+  "_A328": {
+    "cpu": {
+      "cores": 4,
+      "freq": 1.3,
+      "name": "Cortex-A7"
+    },
+    "date": "2014-10-24T15:00:00.000Z",
+    "display": {
+      "h": 854,
+      "s": 4.5,
+      "w": 480
+    },
+    "maker": {
+      "code": "l",
+      "name": "Lenovo"
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 4096
+    },
+    "name": {
+      "id": "Lenovo A328",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    }
+  },
   "_B6000-F": {
     "cpu": {
       "cores": 4,
@@ -13913,6 +14580,9 @@
       "h": 1600,
       "s": 8,
       "w": 1280
+    },
+    "flags": {
+      "forceTouchOrigin": "bottom left"
     },
     "maker": {
       "name": "Lenovo"
@@ -13984,6 +14654,151 @@
     "os": {
       "type": "android",
       "ver": "4.4.2"
+    }
+  },
+  "_MT7-L09": {
+    "cpu": {
+      "cores": 4,
+      "freq": 1.8,
+      "name": "Cortex-A15"
+    },
+    "date": "2014-10-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 6,
+      "w": 1080
+    },
+    "maker": {
+      "code": "h",
+      "name": "Huawei"
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Huawei Ascend Mate7",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    }
+  },
+  "_NXT-L29": {
+    "cpu": {
+      "cores": 8,
+      "freq": 2.3,
+      "name": "Cortex-A72 & Cortex A53"
+    },
+    "date": "2015-11-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 6,
+      "w": 1080
+    },
+    "maker": {
+      "code": "h",
+      "name": "Huawei"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "name": {
+      "id": "Huawei Mate 8",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "6.0"
+    }
+  },
+  "_One_dual_sim": {
+    "cpu": {
+      "cores": 4,
+      "freq": 1.7,
+      "name": "Krait 300"
+    },
+    "date": "2013-08-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 4.68,
+      "w": 1080
+    },
+    "maker": {
+      "code": "htc",
+      "name": "HTC"
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
+    "name": {
+      "id": "HTC One Dual Sim",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.1"
+    }
+  },
+  "_One_mini": {
+    "cpu": {
+      "cores": 2,
+      "freq": 1.4,
+      "name": "Krait 200"
+    },
+    "date": "2013-08-31T15:00:00.000Z",
+    "display": {
+      "h": 1280,
+      "s": 4.3,
+      "w": 720
+    },
+    "maker": {
+      "code": "htc",
+      "name": "HTC"
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
+    "name": {
+      "id": "HTC One mini",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.2"
+    }
+  },
+  "_U9508": {
+    "cpu": {
+      "cores": 4,
+      "freq": 1.4,
+      "name": "Cortex-A9"
+    },
+    "date": "2012-11-31T15:00:00.000Z",
+    "display": {
+      "h": 1280,
+      "s": 4.5,
+      "w": 720
+    },
+    "maker": {
+      "code": "h",
+      "name": "Huawei"
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 8192
+    },
+    "name": {
+      "id": "Huawei Honor 2",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.0"
     }
   },
   "arrows_M02": {
@@ -15238,6 +16053,951 @@
     "os": {
       "type": "android",
       "ver": "4.4"
+    }
+  },
+  "Htc_saga": {
+    "brand": "Htc",
+        "price" : 1100,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 2,
+      "freq": 1.2,
+      "name": "Snapdragon"
+    },
+    "date": "2011-02-11T15:00:00.000Z",
+    "display": {
+      "h": 800,
+      "s": 4,
+      "w": 480
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 4
+    },
+    "name": {
+      "id": "HTCG7",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "2.3"
+    }
+  },
+"sansang_glax": {
+    "brand": "Sansam",
+        "price" : 1600,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 2,
+      "freq": 1.2,
+      "name": "Mali-400MP"
+    },
+    "date": "2011-03-22T15:00:00.000Z",
+    "display": {
+      "h": 800,
+      "s": 4.3,
+      "w": 480
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8
+    },
+    "name": {
+      "id": "Galaxy S Plus",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "2.3"
+    }
+  },
+  "huawei_mate8": {
+    "brand":"Huawei",
+        "price" : 2800,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.3,
+      "name": "Mali-T880"
+    },
+    "date": "2015-07-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 6,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 64
+    },
+    "name": {
+      "id": "华为mate8",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "6.0"
+    }
+  },
+  "htc_evo": {
+    "brand":"Htc",
+        "price" : 900,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 1,
+      "freq": 1,
+      "name": "高通 Adreno200"
+    },
+    "date": "2010-05-31T15:00:00.000Z",
+    "display": {
+      "h": 800,
+      "s": 4.3,
+      "w": 480
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 2
+    },
+    "name": {
+      "id": "HTC 夺目3D",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "2.1"
+    }
+  },
+  "nexus4": {
+    "brand": "Google",
+        "price" : 1100,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 4,
+      "freq": 1.5,
+      "name": "高通 骁龙Snapdragon"
+    },
+    "date": "2012-12-31T15:00:00.000Z",
+    "display": {
+      "h": 1280,
+      "s": 4.7,
+      "w": 768
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 8
+    },
+    "name": {
+      "id": "谷歌Nexus4",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.2"
+    }
+  },
+  "nubizaz9": {
+    "brand":"Nubiza",
+        "price" : 2500,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2,
+      "name": "骁龙810"
+    },
+    "date": "2015-12-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.2,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 4096,
+      "rom": 32
+    },
+    "name": {
+      "id": "努比亚Z9",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0"
+    }
+  }, 
+ "xt912": {
+    "brand":"Moto",
+        "price" : 800,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 2,
+      "freq": 1,
+      "name": "Imagination PowerVR SGX540"
+    },
+    "date": "2011-12-31T15:00:00.000Z",
+    "display": {
+      "h": 960,
+      "s": 4.3,
+      "w": 540
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 2
+    },
+    "name": {
+      "id": "摩托罗拉xt912",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "2.3"
+    }
+  },
+"moto_milestone": {
+    "brand":"Moto",
+        "price" : 800,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 1,
+      "freq": 1,
+      "name": "Imagination PowerVR SGX540"
+    },
+    "date": "2010-05-31T15:00:00.000Z",
+    "display": {
+      "h": 854,
+      "s": 3.7,
+      "w": 480
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 256,
+      "rom": 2
+    },
+    "name": {
+      "id": "摩托罗拉里程碑",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "2.1"
+    }
+  },
+"letv": {
+    "brand":"Letv",
+        "price" : 1100,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.2,
+      "name": "联发科 Helio X10"
+    },
+    "date": "2014-05-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 64
+    },
+    "name": {
+      "id": "乐视手机1S",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "5"
+    }
+  },
+"meizu_pro5": {
+    "brand":"Meizu",
+        "price" : 2500,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.1,
+      "name": "Exynos7420"
+    },
+    "date": "2015-05-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.7,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32
+    },
+    "name": {
+      "id": "魅族 PRO5",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "5"
+    }
+  },
+"one_plus_2": {
+    "brand": "Oneplus",
+        "price" : 1200,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.1,
+      "name": "高通 骁龙810"
+    },
+    "date": "2015-08-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32
+    },
+    "name": {
+      "id": "一加 OnePlus2",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1"
+    }
+  },
+"U705T": {
+    "brand": "Huawei",
+        "price" : 1200,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.1,
+      "name": "高通 骁龙810"
+    },
+    "date": "2015-08-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.2,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 16
+    },
+    "name": {
+      "id": "华为705",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    }
+  },
+"_5890": {
+    "brand": "Nubiza",
+        "price" : 2200,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.1,
+      "name": "高通 骁龙810"
+    },
+    "date": "2015-08-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32
+    },
+    "name": {
+      "id": "Nubiza",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.1"
+    }
+  },
+"R811": {
+    "brand": "Oppo",
+        "price" : 3200,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.1,
+      "name": "高通 骁龙810"
+    },
+    "date": "2015-08-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.7,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 16
+    },
+    "name": {
+      "id": "Oppo R8",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1"
+    }
+  },
+  "MI_3": {
+    "brand": "Xiaomi",
+        "price" : 1400,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.1,
+      "name": "高通 骁龙810"
+    },
+    "date": "2015-08-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.2,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32
+    },
+    "name": {
+      "id": "小米3",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.2"
+    }
+  },
+  "L36h": {
+    "brand": "Letv",
+        "price" : 3100,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.1,
+      "name": "高通 骁龙810"
+    },
+    "date": "2015-08-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.1,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 16
+    },
+    "name": {
+      "id": "乐视 新款",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1"
+    }
+  },
+  "HTC_T528w": {
+    "brand": "Htc",
+        "price" : 2200,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.1,
+      "name": "高通 骁龙810"
+    },
+    "date": "2015-08-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.1,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 8
+    },
+    "name": {
+      "id": "HTC_T528w",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    }
+  },
+  "HTC_T528d": {
+    "brand": "Htc",
+        "price" : 2500,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.1,
+      "name": "高通 骁龙810"
+    },
+    "date": "2015-08-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 4.7,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 16
+    },
+    "name": {
+      "id": "HTC_T528d",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    }
+  },
+  "GT-S7572": {
+    "brand": "Sansam",
+        "price" : 1800,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.1,
+      "name": "高通 骁龙810"
+    },
+    "date": "2015-08-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 4.7,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32
+    },
+    "name": {
+      "id": "三星7572",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1"
+    }
+  },
+  "GT-S7562": {
+    "brand": "Sansam",
+        "price" : 1800,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.1,
+      "name": "高通 骁龙810"
+    },
+    "date": "2015-08-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.1,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32
+    },
+    "name": {
+      "id": "三星 Note",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1"
+    }
+  },
+  "GT-I9305": {
+    "brand": "Moto",
+        "price" : 2200,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.1,
+      "name": "高通 骁龙810"
+    },
+    "date": "2015-08-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 4.7,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 16
+    },
+    "name": {
+      "id": "MoTo",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1"
+    }
+  },
+  "GT-I9082i": {
+    "brand": "Sansam",
+        "price" : 2200,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.1,
+      "name": "高通 骁龙810"
+    },
+    "date": "2015-08-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32
+    },
+    "name": {
+      "id": "三星 Glax",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1"
+    }
+  },
+  "GT-I8268": {
+    "brand": "Sansam",
+        "price" : 2200,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.1,
+      "name": "高通 骁龙810"
+    },
+    "date": "2015-08-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.2,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 16
+    },
+    "name": {
+      "id": "三星 newL",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1"
+    }
+  },
+  "8190": {
+    "brand": "Sansam",
+        "price" : 1200,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.1,
+      "name": "高通 骁龙810"
+    },
+    "date": "2015-08-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 4.7,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 16
+    },
+    "name": {
+      "id": "三星 X908",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1"
+    }
+  },
+  "_X510t": {
+    "brand": "Htc",
+        "price" : 2200,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.1,
+      "name": "高通 骁龙810"
+    },
+    "date": "2015-08-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.1,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 16
+    },
+    "name": {
+      "id": "HTC 510",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1"
+    }
+  },
+"_7295+": {
+    "brand": "Htc",
+        "price" : 2200,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.1,
+      "name": "高通 骁龙810"
+    },
+    "date": "2015-08-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 16
+    },
+    "name": {
+      "id": "HTC 295",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1"
+    }
+  },
+ "_X3t": {
+    "brand": "Htc",
+        "price" : 2200,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.1,
+      "name": "高通 骁龙810"
+    },
+    "date": "2015-08-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32
+    },
+    "name": {
+      "id": "HTC X928",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1"
     }
   }
 }

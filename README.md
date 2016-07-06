@@ -1,3 +1,9 @@
+# stf-device-db-ext
+This is forked version from **stf-device-db**, the purpose is to extend existing device list.
+
+## Update - 20160623
+Add more device name/icon for China market.
+
 # stf-device-db
 
 **stf-device-db** is a JSON-based database of smartphones, tablets and wearables. The database includes thumbnails for each device and some basic information about the default model at the time of release. It is not complete; currently it mainly covers devices sold in the Japanese market. Data is added as required.
