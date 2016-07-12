@@ -1,6 +1,9 @@
 # stf-device-db-ext
 This is forked version from **stf-device-db**, the purpose is to extend existing device list.
 
+## Update - 20160712
+Add more device name/icon for China market.
+
 ## Update - 20160623
 Add more device name/icon for China market.
 

@@ -1,6 +1,6 @@
 {
   "name": "stf-device-db-ext",
-  "version": "1.2.7",
+  "version": "1.2.9",
   "description": "A extension of smartphone/device database with images for STF to support more devices.",
   "keywords": [
     "stf"

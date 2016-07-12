@@ -1,4 +1,4 @@
-{
+ {
   "001DL": {
     "carrier": {
       "code": "s",
@@ -16362,7 +16362,7 @@
       "rom": 64
     },
     "name": {
-      "id": "乐视手机1S",
+      "id": "LETV1S",
       "long": ""
     },
     "os": {
@@ -16397,7 +16397,7 @@
       "rom": 32
     },
     "name": {
-      "id": "魅族 PRO5",
+      "id": "Meizu PRO5",
       "long": ""
     },
     "os": {
@@ -16432,7 +16432,7 @@
       "rom": 32
     },
     "name": {
-      "id": "一加 OnePlus2",
+      "id": "one_plus_2",
       "long": ""
     },
     "os": {
@@ -16467,7 +16467,7 @@
       "rom": 16
     },
     "name": {
-      "id": "华为705",
+      "id": "ALPS_Ulike2",
       "long": ""
     },
     "os": {
@@ -16502,7 +16502,7 @@
       "rom": 32
     },
     "name": {
-      "id": "Nubiza",
+      "id": "YULONG_5890",
       "long": ""
     },
     "os": {
@@ -16511,7 +16511,7 @@
     }
   },
 "R811": {
-    "brand": "Oppo",
+    "brand": "ALPS",
         "price" : 3200,
     "carrier": {
       "code": "_",
@@ -16537,7 +16537,7 @@
       "rom": 16
     },
     "name": {
-      "id": "Oppo R8",
+      "id": "ALPS_R811",
       "long": ""
     },
     "os": {
@@ -16572,7 +16572,7 @@
       "rom": 32
     },
     "name": {
-      "id": "小米3",
+      "id": "XIAOMI_3",
       "long": ""
     },
     "os": {
@@ -16581,7 +16581,7 @@
     }
   },
   "L36h": {
-    "brand": "Letv",
+    "brand": "SONY",
         "price" : 3100,
     "carrier": {
       "code": "_",
@@ -16607,7 +16607,7 @@
       "rom": 16
     },
     "name": {
-      "id": "乐视 新款",
+      "id": "SONY_L36h",
       "long": ""
     },
     "os": {
@@ -16616,7 +16616,7 @@
     }
   },
   "HTC_T528w": {
-    "brand": "Htc",
+    "brand": "HTC",
         "price" : 2200,
     "carrier": {
       "code": "_",
@@ -16652,7 +16652,7 @@
   },
   "HTC_T528d": {
     "brand": "Htc",
-        "price" : 2500,
+        "price" : 500,
     "carrier": {
       "code": "_",
       "name": "中国移动"
@@ -16686,7 +16686,7 @@
     }
   },
   "GT-S7572": {
-    "brand": "Sansam",
+    "brand": "SAMSUNG",
         "price" : 1800,
     "carrier": {
       "code": "_",
@@ -16712,7 +16712,7 @@
       "rom": 32
     },
     "name": {
-      "id": "三星7572",
+      "id": "SAMSUNG_GT-S7572",
       "long": ""
     },
     "os": {
@@ -16721,7 +16721,7 @@
     }
   },
   "GT-S7562": {
-    "brand": "Sansam",
+    "brand": "SAMSUNG",
         "price" : 1800,
     "carrier": {
       "code": "_",
@@ -16747,7 +16747,7 @@
       "rom": 32
     },
     "name": {
-      "id": "三星 Note",
+      "id": "SAMSUNG_GT-S7562",
       "long": ""
     },
     "os": {
@@ -16756,7 +16756,7 @@
     }
   },
   "GT-I9305": {
-    "brand": "Moto",
+    "brand": "SAMSUNG",
         "price" : 2200,
     "carrier": {
       "code": "_",
@@ -16782,7 +16782,7 @@
       "rom": 16
     },
     "name": {
-      "id": "MoTo",
+      "id": "SAMSUNG_GT-I9305",
       "long": ""
     },
     "os": {
@@ -16791,7 +16791,7 @@
     }
   },
   "GT-I9082i": {
-    "brand": "Sansam",
+    "brand": "SAMSUNG",
         "price" : 2200,
     "carrier": {
       "code": "_",
@@ -16817,7 +16817,7 @@
       "rom": 32
     },
     "name": {
-      "id": "三星 Glax",
+      "id": "SAMSUNG_GT-I9082i",
       "long": ""
     },
     "os": {
@@ -16826,7 +16826,7 @@
     }
   },
   "GT-I8268": {
-    "brand": "Sansam",
+    "brand": "SAMSUNG",
         "price" : 2200,
     "carrier": {
       "code": "_",
@@ -16852,7 +16852,7 @@
       "rom": 16
     },
     "name": {
-      "id": "三星 newL",
+      "id": "SAMSUNG_GT-I8268",
       "long": ""
     },
     "os": {
@@ -16861,7 +16861,7 @@
     }
   },
   "8190": {
-    "brand": "Sansam",
+    "brand": "YULONG",
         "price" : 1200,
     "carrier": {
       "code": "_",
@@ -16887,7 +16887,7 @@
       "rom": 16
     },
     "name": {
-      "id": "三星 X908",
+      "id": "YULONG_8190",
       "long": ""
     },
     "os": {
@@ -16896,7 +16896,7 @@
     }
   },
   "_X510t": {
-    "brand": "Htc",
+    "brand": "BBK",
         "price" : 2200,
     "carrier": {
       "code": "_",
@@ -16922,7 +16922,7 @@
       "rom": 16
     },
     "name": {
-      "id": "HTC 510",
+      "id": "BBK_X510t",
       "long": ""
     },
     "os": {
@@ -16931,7 +16931,7 @@
     }
   },
 "_7295+": {
-    "brand": "Htc",
+    "brand": "COOLPAD",
         "price" : 2200,
     "carrier": {
       "code": "_",
@@ -16957,7 +16957,7 @@
       "rom": 16
     },
     "name": {
-      "id": "HTC 295",
+      "id": "COOLPAD_7295+",
       "long": ""
     },
     "os": {
@@ -16966,7 +16966,7 @@
     }
   },
  "_X3t": {
-    "brand": "Htc",
+    "brand": "BBK",
         "price" : 2200,
     "carrier": {
       "code": "_",
@@ -16992,12 +16992,258 @@
       "rom": 32
     },
     "name": {
-      "id": "HTC X928",
+      "id": "BBK_X3t",
       "long": ""
     },
     "os": {
       "type": "android",
       "ver": "5.1"
     }
-  }
+  },
+ "_802d": {
+    "brand": "HTC",
+        "price" : 2200,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.1,
+      "name": "高通 骁龙810"
+    },
+    "date": "2015-08-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32
+    },
+    "name": {
+      "id": "HTC_802d",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1"
+    }
+  },
+ "_K900": {
+    "brand": "LENOVO",
+        "price" : 2200,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.1,
+      "name": "高通 骁龙810"
+    },
+    "date": "2015-08-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32
+    },
+    "name": {
+      "id": "LENOVO_K900",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1"
+    }
+  },
+ "HTC_T528t": {
+    "brand": "HTC",
+        "price" : 2200,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.1,
+      "name": "高通 骁龙810"
+    },
+    "date": "2015-08-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32
+    },
+    "name": {
+      "id": "HTC_T528t",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1"
+    }
+  },
+ "R815T": {
+    "brand": "OPPO",
+        "price" : 2200,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.1,
+      "name": "高通 骁龙810"
+    },
+    "date": "2015-08-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32
+    },
+    "name": {
+      "id": "OPPO_R815T",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1"
+    }
+  },
+ "R819T": {
+    "brand": "OPPO",
+        "price" : 2200,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.1,
+      "name": "高通 骁龙810"
+    },
+    "date": "2015-08-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32
+    },
+    "name": {
+      "id": "OPPO_R815T",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1"
+    }
+  },
+ "R823T": {
+    "brand": "OPPO",
+        "price" : 1300,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.1,
+      "name": "高通 骁龙810"
+    },
+    "date": "2015-08-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32
+    },
+    "name": {
+      "id": "OPPO_R823T",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1"
+    }
+  },
+ "SCH-I869": {
+    "brand": "SAMSUNG",
+        "price" : 1300,
+    "carrier": {
+      "code": "_",
+      "name": "中国移动"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.1,
+      "name": "高通 骁龙810"
+    },
+    "date": "2015-08-31T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "po",
+      "name": "Polaroid"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32
+    },
+    "name": {
+      "id": "SAMSUNG_SCH-I869",
+      "long": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1"
+    }
+  }  
+  
 }
